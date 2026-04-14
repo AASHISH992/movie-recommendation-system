@@ -43,7 +43,7 @@ It uses the **TMDB movie dataset** and applies **content-based filtering** techn
 ## 📸 Demo
 
 ### 🔹 Home Page
-![Home]("C:/Users/Sud//Pictures/Screenshots/Screenshot 2026-04-14 132446.png")
+![Home]("https://raw.githubusercontent.com/AASHISH992/movie-recommendation-system/demo/home.png")
 
 ### 🔹 Recommendation Output
 ![Output](add-your-screenshot-link-here)

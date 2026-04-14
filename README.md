@@ -43,8 +43,7 @@ It uses the **TMDB movie dataset** and applies **content-based filtering** techn
 ## 📸 Demo
 
 ### 🔹 Home Page
-![Home](<img width="1856" height="1079" alt="home" src="https://github.com/user-attachments/assets/7897071d-ac43-4745-a0c9-3e3366b61d3e" />
-")
+<img width="1856" height="1079" alt="home" src="https://github.com/user-attachments/assets/7897071d-ac43-4745-a0c9-3e3366b61d3e" />
 
 ### 🔹 Recommendation Output
 ![Output](add-your-screenshot-link-here)

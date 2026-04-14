@@ -43,7 +43,7 @@ It uses the **TMDB movie dataset** and applies **content-based filtering** techn
 ## 📸 Demo
 
 ### 🔹 Home Page
-![Home](add-your-screenshot-link-here)
+![Home]("C:\Users\Sudo\Pictures\Screenshots\Screenshot 2026-04-14 132446.png")
 
 ### 🔹 Recommendation Output
 ![Output](add-your-screenshot-link-here)
